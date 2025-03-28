@@ -69,4 +69,4 @@ registry.display_pet_info("Барон")
 registry.display_all_pets()
 
 
-registry.display_pet_info("Рекс")
+registry.display_pet_info("Рексик")
